@@ -1,3 +1,3 @@
 mkn 
 
-repo for whole projects and wrapper around existing projects
+For whole projects and wrapper around existing projects
